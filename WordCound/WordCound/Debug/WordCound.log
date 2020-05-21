@@ -1,0 +1,3 @@
+﻿  WordCound.cpp
+E:\git1\WordCound\WordCound\WordCound.cpp(2,32): warning C4081: 应输入“newline”；找到“;”
+  WordCound.vcxproj -> E:\git1\WordCound\Debug\WordCound.exe
